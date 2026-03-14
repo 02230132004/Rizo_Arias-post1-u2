@@ -3,9 +3,13 @@
 # Auditoría Heurística Nielsen - Rappi Android (Unidad 2 Post-Contenido 1)
 
 **Estudiante:** Miguel Angel Rizo Arias  
+
 **Materia:** Aplicaciones Móviles - Ingeniería de Sistemas UDES 2026
+
 **Dispositivo:** iPhone 13 Pro 
+
 **App auditada:** Rappi 
+
 **Flujos críticos:**  
 1. Home / búsqueda / onboarding  
 2. Selección productos + carrito  
