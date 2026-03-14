@@ -21,3 +21,5 @@
 - checklist_heuristico.md → Tabla con 10 heurísticas  
 - reporte_auditoria.md → Hallazgos detallados + recomendaciones  
 - evidencias/ → Capturas de pantalla (18 aprox.)
+
+<image-card alt="Rappi Logo" src="images/rappi_logo.png" ></image-card>
