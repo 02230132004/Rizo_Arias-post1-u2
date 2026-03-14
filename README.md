@@ -23,6 +23,6 @@
 - evidencias/ → Capturas de pantalla (18 aprox.)
 
 <div align="center">
-  <img src="evidencias/evidencia_01_home_principal.png" alt="Pantalla principal de Rappi (Home)" width="350">
+  <img src="evidencias/evidencia_01_home_principal.jpeg" alt="Pantalla principal de Rappi (Home)" width="350">
   <p><strong>Pantalla principal de Rappi auditada (marzo 2026)</strong></p>
 </div>
