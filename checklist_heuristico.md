@@ -22,6 +22,4 @@
 - Severidad promedio: ~2.9 (moderado-grave)
 - Prioridades altas: H8 (sobrecarga) y H4 (inconsistencia)
 
-Sube esta tabla a **checklist_heuristico.md** en tu repo. Ajusta nombres de evidencias según tus capturas reales en iPhone (ej. evidencia_02_home_sobrecarga.png). Luego crea la carpeta /evidencias/ y sube las fotos correspondientes desde Fotos → Exportar o Upload en GitHub.
 
-¡Con esto cumples Checkpoint 2! Si necesitas expandir descripciones o agregar más hallazgos, avísame. ¿Quieres que prepare el reporte_auditoria.md ahora? 😊
