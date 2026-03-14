@@ -22,4 +22,4 @@
 - reporte_auditoria.md → Hallazgos detallados + recomendaciones  
 - evidencias/ → Capturas de pantalla (18 aprox.)
 
-<image-card alt="nombre" src="https://user-images.githubusercontent.com/xxxx/Rappi.png" ></image-card>
+<image-card alt="Rappi Home" src="evidencias/evidencia_01_home_principal.png" ></image-card>
